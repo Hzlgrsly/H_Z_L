@@ -13,7 +13,7 @@ body {
 /* Add a white background color to the top navigation */
 .topnav {
   position: relative;
-  background-color: white;
+  background-color: black;
   overflow: hidden;
   margin-top: 0;
 }
