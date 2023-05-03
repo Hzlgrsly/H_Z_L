@@ -64,6 +64,15 @@ h1 {
             text-align: left;
 }
 
+header {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  margin-right: auto;
+}
+
 h2,
 h3,
 h4 {
