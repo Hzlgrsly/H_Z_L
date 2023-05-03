@@ -1,5 +1,4 @@
 body {
-  text-position: center;
   font-family: 'Inconsolata', monospace;
   font-style: normal;
   letter-spacing: 0em;
@@ -50,6 +49,7 @@ h1 {
   font-weight: bold;
   font-size: 20px;
   text-transform: uppercase;
+  text-position: center;
 }
 
 #logo {
