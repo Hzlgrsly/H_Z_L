@@ -18,14 +18,10 @@ body {
 /* smooth nav bar transition */
 nav {
   display: grid;
-  gap: 1rem;
+  gap: 4rem;
   grid-template-columns: repeat(4, minmax(0, 1fr));
-  /* 
-  if we did this instead of the template it would be a problem:
-  grid-auto-flow: column;
-  */
   font: 120% system-ui;
-  text-align: center;
+  text-align: right;
   padding: 2rem 1rem;
 }
 a {
@@ -35,10 +31,6 @@ a {
 a:hover {
   font-weight: 900;
 }
-
-
-
-
 
 /* Add a white background color to the top navigation */
 .topnav {
