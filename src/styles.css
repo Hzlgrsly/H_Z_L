@@ -10,6 +10,10 @@ body {
   margin-bottom: 30px;
 }
 
+.center {
+  text-align: center;
+}
+
 /* Add a white background color to the top navigation */
 .topnav {
   position: relative;
