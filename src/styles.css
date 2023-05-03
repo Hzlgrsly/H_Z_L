@@ -22,7 +22,6 @@ body {
   background-color: white;
   overflow: hidden;
   margin-top: 0;
-  display:inline-block;
 }
 
 /* Style the links inside the navigation bar */
@@ -62,6 +61,7 @@ h1 {
 .logo img {
             padding: 20px;
             text-align: left;
+  display:inline-block;
         }
 
 h2,
