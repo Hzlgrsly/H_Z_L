@@ -54,6 +54,10 @@ h1 {
 
 #logo {
   position: fixed; 
+  width:400px;
+  height:400px;
+  padding: 50px 50px 50px 50px;
+
 }
 
 h2,
