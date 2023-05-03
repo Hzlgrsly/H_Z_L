@@ -1,5 +1,5 @@
 body {
-  font-family: "Andale Mono", AndaleMono, monospace;
+  font-family: 'Inconsolata', monospace;
   font-style: normal;
   letter-spacing: 0em;
   line-height: 1.6em;
@@ -187,3 +187,5 @@ h1 {
   font-size: 20px;
   text-transform: uppercase;
 }
+
+
