@@ -24,13 +24,6 @@ nav {
   text-align: right;
   padding: 2rem 1rem;
 }
-a {
-  text-decoration: none;
-  color: black;
-}
-a:hover {
-  font-weight: 900;
-}
 
 /* Add a white background color to the top navigation */
 .topnav {
