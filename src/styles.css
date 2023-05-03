@@ -198,3 +198,33 @@ p {
   font-size: 15px;
 }
 
+/* image in nav bar */
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  background-color: #6194d5;
+  justify-content: space-between;
+  overflow: auto;
+}
+ul li {
+  position: relative;
+  margin: 0 20px;
+  list-style: none;
+  display: inline-block;
+  padding: 14px;
+  font-size: 17px;
+}
+ul li a{
+text-decoration: none; 
+cursor: pointer;
+color: rgb(255, 255, 255);
+}
+ul li a:hover {
+   background-color: rgb(129, 123, 123);
+}
