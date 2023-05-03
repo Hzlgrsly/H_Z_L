@@ -208,7 +208,7 @@ nav {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  background-color: #6194d5;
+  background-color: white;
   justify-content: space-between;
   overflow: auto;
 }
@@ -223,8 +223,8 @@ ul li {
 ul li a{
 text-decoration: none; 
 cursor: pointer;
-color: rgb(255, 255, 255);
+color: black;
 }
 ul li a:hover {
-   background-color: rgb(129, 123, 123);
+   background-color: white;
 }
