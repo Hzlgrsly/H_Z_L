@@ -165,8 +165,8 @@ p {
 
 /* image in nav bar */
 {
-  margin: 0;
-  padding: 0;
+  margin: 10;
+  padding: 10;
   box-sizing: border-box;
 }
 nav {
