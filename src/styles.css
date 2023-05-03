@@ -16,8 +16,9 @@ body {
   font-size: 20px;
 }
 
-logo {
+.logo {
   margin: 10px;
+}
 
 h1 {
   color: black;
