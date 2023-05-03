@@ -224,6 +224,7 @@ ul li a{
 text-decoration: none; 
 cursor: pointer;
 color: black;
+  text-transform: uppercase;
 }
 ul li a:hover {
    background-color: white;
