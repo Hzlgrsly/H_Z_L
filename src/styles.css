@@ -190,5 +190,7 @@ button[type="submit"]:hover {
   margin-right: 10px;
 }
 
-
+p {
+  text-align: center;
+}
 
