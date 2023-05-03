@@ -23,12 +23,6 @@ h1 {
   text-transform: uppercase;
 }
 
-.logo img {
-            padding: 20px;
-            text-align: left;
-            margin: 10px;
-}
-
 h2,
 h3,
 h4 {
@@ -165,8 +159,8 @@ p {
 
 /* image in nav bar */
 {
-  margin: 10px;
-  padding: 10px;
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 nav {
