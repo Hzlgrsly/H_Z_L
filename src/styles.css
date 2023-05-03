@@ -16,42 +16,6 @@ body {
   font-size: 20px;
 }
 
-/* Add a white background color to the top navigation */
-.topnav {
-  position: relative;
-  background-color: white;
-  overflow: hidden;
-  margin-top: 0;
-}
-
-/* Style the links inside the navigation bar */
-.topnav a {
-  color: black;
-  text-align: right;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 20px;
-  text-transform: uppercase;
-}
-
-/* Change the color of links on hover */
-.topnav a:hover {
-  color: black;
-  font-weight: bold;
-  font-size: 40px;
-}
-
-.topnav a.active {
-  background-color: white;
-  color: black;
-}
-
-.topnav-right {
-  float: right;
-  padding: 20px;
-  display:inline-block;
-}
-
 h1 {
   color: black;
   font-weight: bold;
@@ -225,7 +189,11 @@ text-decoration: none;
 cursor: pointer;
 color: black;
   text-transform: uppercase;
+  font-size: 20px;
 }
 ul li a:hover {
    background-color: white;
+  color: black;
+  font-weight: bold;
+  font-size: 40px;
 }
