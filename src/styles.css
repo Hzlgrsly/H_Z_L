@@ -13,6 +13,7 @@ body {
 /* Position of header 1 */
 .center {
   text-align: center;
+  font-size: 10px;
 }
 
 /* Add a white background color to the top navigation */
