@@ -16,6 +16,9 @@ body {
   font-size: 20px;
 }
 
+logo {
+  margin: 10px;
+
 h1 {
   color: black;
   font-weight: bold;
