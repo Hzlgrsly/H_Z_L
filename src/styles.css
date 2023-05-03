@@ -14,17 +14,6 @@ body {
   text-align: center;
 }
 
-
-/* smooth nav bar transition */
-nav {
-  display: grid;
-  gap: 4rem;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  font: 120% system-ui;
-  text-align: right;
-  padding: 2rem 1rem;
-}
-
 /* Add a white background color to the top navigation */
 .topnav {
   position: relative;
@@ -64,8 +53,6 @@ h1 {
   font-weight: bold;
   font-size: 10px;
   text-transform: uppercase;
-
-
 }
 
 .logo img {
