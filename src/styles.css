@@ -53,14 +53,12 @@ h1 {
   font-weight: bold;
   font-size: 10px;
   text-transform: uppercase;
+
+
 }
 
-#logo {
-  position: fixed; 
-  width:400px;
-  height:400px;
-  padding: 50px 50px 50px 50px;
-
+.logo {
+  padding: 10px;
 }
 
 h2,
