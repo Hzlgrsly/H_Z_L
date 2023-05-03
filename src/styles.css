@@ -57,9 +57,10 @@ h1 {
 
 }
 
-.logo {
-  padding: 10px;
-}
+.logo img {
+            padding: 10px;
+            text-align: left;
+        }
 
 h2,
 h3,
