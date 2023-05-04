@@ -13,9 +13,13 @@ body {
   font-size: 20px;
 }
 
-logo {
-  margin-top: 20px;
-  margin-left: 20px;
+#logo {
+  border: 1px solid black; /*Add a border around the logo*/
+  border-radius: 50%; /*Make the border circular*/
+  box-shadow: 2px 2px 2px gray; /*Add a subtle shadow*/
+  margin-left: 10px; /*Maintain the current left margin*/
+  width: 200px; /*Set the width*/
+  height: 100px; /*Set the height*/
 }
 
 h1 {
