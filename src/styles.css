@@ -14,13 +14,9 @@ body {
 }
 
 #logo {
-  border: 1px solid black; /*Add a border around the logo*/
-  border-radius: 100%; /*Make the border circular*/
   box-shadow: 2px 2px 2px gray; /*Add a subtle shadow*/
   margin-left: 20px; /*Maintain the current left margin*/
   margin-top: 20px;
-  width: 200px; /*Set the width*/
-  height: 100px; /*Set the height*/
 }
 
 h1 {
