@@ -20,8 +20,9 @@ body {
 
 #display {
   padding: 15px;
-  width: 400px;
+  width: 300px;
   height: 400px;
+  inline-block;
 }
 
 h1 {
