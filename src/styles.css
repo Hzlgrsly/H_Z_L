@@ -32,7 +32,9 @@ h1 {
   text-transform: uppercase;
 }
 
-
+h2, h3, h4 {
+  text-transform: uppercase;
+}
 
 /* Style inputs with type="text", select elements and textareas */
 input[type="text"],
