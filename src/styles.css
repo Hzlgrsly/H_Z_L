@@ -14,7 +14,6 @@ body {
 }
 
 #logo {
-  box-shadow: 2px 2px 2px gray; /*Add a subtle shadow*/
   margin-left: 20px; /*Maintain the current left margin*/
   margin-top: 20px;
 }
